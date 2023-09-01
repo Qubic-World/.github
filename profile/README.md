@@ -12,3 +12,4 @@ This organization is an association of people who want to make Qubic better and 
 * [Qubic founder Come-from-Beyond's Twitter](https://twitter.com/c___f___b)
 * [Awesome site from the Qubic community](https://web.qubic.li/)
 * [Documentation](https://docs.qubic.world/)
+* [How To](https://github.com/Qubic-World/qubic-howto)
